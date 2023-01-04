@@ -35,10 +35,6 @@ We are creating an educational and connecting platform to bridge the gap between
 Super-resolution microscopy is an umbrella term for techniques to overcome the diffraction limit in optical microscopy. The techniques are easy to use (with the right guidance) but mostly obscure to non-microscopists and the broader public (and suppliers rely on that).  
 
 
-# :arrow_upper_right: Canvas
-![Open canvas](_resources/canvas.png)
-
-
 # :world_map: Roadmap
 
 Building a platform for open and reproducible super-resolution imaging hardware and analytical tools. The open-super-resolution platform makes high resolution imaging techniques more accessible for non-microscopy experts such as biologist, biophysicts and the general public especially younger students with interets in life sciences.
@@ -90,19 +86,26 @@ This ranges from feedback regarding/creation of educational content to sharing o
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
+Found a typo in the documentation or interested in fixing a bug? Then by all means submit an [issue](https://github.com/grussmayerlab/open-blink/issues/new/choose) or pull request. If this is your first pull request, it may be helpful to read up on the [GitHub Flow first](https://docs.github.com/de/get-started/quickstart/github-flow).
+
 ## Prerequisites
 
 What things you need to install the software and how to install them.
 
-The website is hosted vie github pages and built locally with [jekyll](https://jekyllrb.com/).  
-
-```sh
-Give examples
-```
+The website is hosted vie github pages and built locally with [jekyll](https://jekyllrb.com/).
+TO built it locally, run an instance of jekyll and ruby on your machine. 
+For windows [this manual](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jekyll-install-windows-example-blog-tutorial) worked well. 
 
 ## Installation
 
 A step by step series of examples that tell you how to get the website development env running.
+
+1. Afterwards clone the repository: 
+
+```sh
+git clone git@github.com:GrussmayerLab/open-blink.git
+```
+
 
 ```sh   
 Give the example
