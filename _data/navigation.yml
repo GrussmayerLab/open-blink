@@ -4,9 +4,9 @@ main:
     url: /wetlab/
   - title: "Hardware"
     url: /hardware/
-  - title: "software"
+  - title: "Software"
     url: /software/
-  - title: "education"
+  - title: "Education"
     url: /education/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
