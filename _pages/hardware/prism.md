@@ -2,12 +2,12 @@
 title: "PRISM"
 layout: single
 classes: wide
-permalink: /hardware/prism
+permalink: /hardware/prism/
 author_profile: false
 
 excerpt: "A multimodal phase and fluorescence volumetric imaging platform"
 header: 
-    overlay_image: /_pages/hardware/images/prism.tif
+    overlay_image: /_pages/hardware/images/prism.png
     overlay_filter: 0.5
     caption: "Image credit: [**Kristin Grussmayer**](https://www.nature.com/articles/ncomms6830)"
 
@@ -24,7 +24,7 @@ The imlpementation we use at the Grussmayer Lab is based on a the RM21 MadCityLa
 
 ## Schematic 
 
-![PRISM platform](/_pages/hardware/images/prism.tif)
+![PRISM platform](/_pages/hardware/images/prism.png)
 
 ## Components
 
