@@ -1,7 +1,7 @@
 ---
 title: "Open Blink"
 layout: single
-permalink: /hardware/Max
+permalink: /Max/
 author_profile: false
 
 excerpt: "An Open TIRF Microscope with Homogeneous Illumination For Super-resolution Imaging"
