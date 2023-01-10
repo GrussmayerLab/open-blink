@@ -10,5 +10,5 @@ header:
     caption: "Image credit: [**Kristin Grussmayer**](https://www.nature.com/articles/ncomms6830)"
 ---
 You can find our open hardware resources for super-resolution microscopy:
-### [Prism: A multimodal phase and fluorescence volumetric imaging platform](/hardware/prism) 
-### [Max: An open TIRF microscopy with homogenoues illumination](/hardware/Max)
+### [Prism: A multimodal phase and fluorescence volumetric imaging platform](./hardware/prism) 
+### [Max: An open TIRF microscopy with homogenoues illumination](./hardware/Max)
