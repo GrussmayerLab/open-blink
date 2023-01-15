@@ -14,10 +14,10 @@ toc: true
 toc_label: "Table of Contents"
 ---
 ## Components List
-![Max_optical_path](/_pages/hardware/images/Max_optical_path.webp){:class="img-responsive"}
+![Max_optical_path]({{ site.url }}{{ site.baseurl }}/_pages/hardware/images/Max_optical_path.webp){:class="img-responsive"}
 
 ### Laser Machine
-![Max_laserbox_3D](/_pages/hardware/images/Max_laserbox_3D.webp){:class="img-responsive"}
+![Max_laserbox_3D]({{ site.url }}{{ site.baseurl }}/_pages/hardware/images/Max_laserbox_3D.webp){:class="img-responsive"}
 
 | ID | Name                     | Supplier                | Comment    | Cost |
 |----|--------------------------|-------------------------|------------|------|

@@ -7,7 +7,9 @@ main:
   - title: "Software"
     url: /software/
   - title: "Education"
-    url: /education/  
+    url: /education/ 
+  - title: "Resources"
+    url: /resources/   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
