@@ -1,6 +1,6 @@
 ---
 title: "Hardware"
-layout: home
+layout: single
 permalink: /hardware/
 comments: true
 excerpt: "Open hardware for Super-resolution Imaging"

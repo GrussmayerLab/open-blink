@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Wetlab"
-    url: /wetlab/
   - title: "Hardware"
     url: /hardware/
   - title: "Software"
@@ -10,7 +8,10 @@ main:
     url: /education/ 
   - title: "Resources"
     url: /resources/   
-  # - title: "About"
+  - title: "Wetlab"
+    url: /wetlab/
+  - title: "About"
+      url: /about/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
