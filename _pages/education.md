@@ -45,7 +45,7 @@ Python's flexibility also allows for easy integration with other software tools 
 ### Java / ImageJ
 
 
-###Image data analysis
+### Image data analysis
 There seems to be a near-infinite amount of information about image analysis with novel machine learning methods adding to it on a perpetual basis. We can only give a small introduction and guide you to useful resources. 
 A great resource for starters is the [https://bioimagebook.github.io/](Introduction to Bioimage Analysis) book, a github-hosted, jupyter-notebook based intro the topic for beginners. 
 However, actually doing bioimage analysis requires software. And the same concepts can surface in different software in different ways.
